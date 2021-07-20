@@ -18,7 +18,7 @@ class Jtc3{
 		mngr.display(str); //string
 		mngr.display(obj); //object
 		mngr.display(arr); //object (an array is an object in java)
-		mngr.display(null);//string if not present then object
+		mngr.display(null);//string 
 		
 		mngr.showValues(arr); //int[]
 		mngr.showValues(str); //string

@@ -1,4 +1,4 @@
-//Example using Invoking Overloaded Methods
+//Invoking Overloaded Methods
 class Jtc3{
 	public static void main(String[] args) {
 		byte by1= 123;
